@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${vcpkgRoot}/x64-linux/include",
+                "${vcpkgRoot}/x86-linux/include",
+                "${workspaceFolder}/lib/cpr/include",
+                "${workspaceFolder}/lib/rapidjson/include",
+                "${workspaceFolder}/lib/IXWebSocket",
+                "${workspaceFolder}/lib/discpp/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

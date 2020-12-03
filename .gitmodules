@@ -1,12 +1,6 @@
 [submodule "lib/rapidjson"]
 	path = lib/rapidjson
 	url = https://github.com/Tencent/rapidjson.git
-[submodule "lib/cpr"]
-	path = lib/cpr
-	url = https://github.com/whoshuu/cpr.git
 [submodule "lib/IXWebSocket"]
 	path = lib/IXWebSocket
 	url = https://github.com/machinezone/IXWebSocket
-[submodule "lib/discpp"]
-	path = lib/discpp
-	url = https://github.com/DisCPP/DisCPP.git
